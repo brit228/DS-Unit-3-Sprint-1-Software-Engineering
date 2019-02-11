@@ -19,4 +19,6 @@ making the lambdata repo yourself - it will *not* be a fork, and you can have
 more independence and "creative control** in where you take it. You should still
 fork and open a PR to this repo, and edit this file to link to your lambdata.
 
-**My lambdata repository**: *you edit here*
+**My lambdata GitHub repository**: [github.com/brit228/DS1-Unit3-Sprint1-Module1](https://github.com/brit228/DS1-Unit3-Sprint1-Module1)
+
+**My lambdata PyPi repository**: [test.pypi.org/project/lambdata-brit228/](https://test.pypi.org/project/lambdata-brit228)
