@@ -21,4 +21,4 @@ fork and open a PR to this repo, and edit this file to link to your lambdata.
 
 **My lambdata GitHub repository**: [github.com/brit228/DS1-Unit3-Sprint1-Module1](https://github.com/brit228/DS1-Unit3-Sprint1-Module1)
 
-**My lambdata PyPi repository**: [test.pypi.org/project/lambdata-brit228/](https://test.pypi.org/project/lambdata-brit228)
+**My lambdata PyPi repository**: [test.pypi.org/project/lambdata-brit228](https://test.pypi.org/project/lambdata-brit228)
